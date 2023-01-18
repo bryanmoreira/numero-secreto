@@ -13,6 +13,6 @@ CSS3
 JavaScript
 [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 
-##LinkedIn
+## LinkedIn
 
 [Clique aqui](https://www.linkedin.com/in/bryan-i-moreira/)
