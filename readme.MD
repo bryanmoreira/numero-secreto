@@ -4,7 +4,7 @@ Para iniciar o jogo, basta permitir o acesso ao seu microfone e começar a tenta
 
 ## Jogue Agora
 
-[Ir para o jogo](https://github.com/bryanmoreira/numero-secreto)
+[Ir para o jogo](https://numero-secreto-tau-sand.vercel.app)
 
 ## Recomendações
 
